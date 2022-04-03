@@ -1,2 +1,3 @@
 # etc-moon
-dmxlc3M6Ly83ODg3MzdmOS02NDM0LTQyNmQtYTI3Zi05ODc0MWI2MDkzNmVAMTAzLjE0NS43Mi41MzoxMDIyMD9lbmNyeXB0aW9uPW5vbmUmc2VjdXJpdHk9bm9uZSZ0eXBlPXRjcCZoZWFkZXJUeXBlPW5vbmUjbW9vbgo=
+vless://788737f9-6434-426d-a27f-98741b60936e@103.145.72.53:10220?encryption=none&security=none&type=tcp&headerType=none#moon
+
